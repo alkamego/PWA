@@ -1,3 +1,5 @@
+HUSEYIN TUNC 39529, OGUZHAN YAZDICUTAN 47563, BATUHAN YAZDICUTAN 47562.
+
 # Weather PWA (Weather Application)
 
 This project is a Progressive Web Application (PWA) weather application developed using modern web technologies, specifically designed for use in Poland.
